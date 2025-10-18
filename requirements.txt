@@ -1,3 +1,5 @@
 flask
 adafruit-circuitpython-mlx90614
 adafruit-circuitpython-ds3231
+# adafruit-circuitpython-sht4x (later when your SHT40 arrives)
+
